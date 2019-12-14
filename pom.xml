@@ -40,6 +40,14 @@
                 </exclusion>
             </exclusions>
         </dependency>
+
+        <!-- mybatis所需依赖包 -->
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+
     </dependencies>
 
     <build>

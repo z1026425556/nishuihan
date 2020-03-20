@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d0b8329-201e-4e97-9237-ab52d19e0668" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/config/web-front.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/html/baiduMap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/baiduMap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/common/jquery.i18n.properties.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/common/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/common/loadProperties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +46,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/js/common" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,7 +64,7 @@
   </component>
   <component name="RunManager">
     <configuration name="template" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="template" />
+      <module name="nishuihan" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.pengcheng.template.TemplateApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
@@ -100,6 +96,9 @@
       <updated>1576306495222</updated>
       <workItem from="1576306509848" duration="10244000" />
       <workItem from="1576378937675" duration="12823000" />
+      <workItem from="1584672748854" duration="662000" />
+      <workItem from="1584676292235" duration="48000" />
+      <workItem from="1584676446478" duration="682000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交到github">
       <created>1576311324846</created>
@@ -147,6 +146,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="322" y="153" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576311118553" />
+    <state x="823" y="387" width="580" height="277" key="Github.ShareDialog" timestamp="1584676787649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="387" width="580" height="277" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584676787649" />
     <state width="1322" height="164" key="GridCell.Tab.0.bottom" timestamp="1576401986394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -199,10 +202,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="254" y="25" key="Registry/0.0.1366.728@0.0.1366.728" timestamp="1576381704735" />
-    <state x="43" y="0" key="SettingsEditor" timestamp="1576381621251">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="305" y="208" key="SettingsEditor" timestamp="1584677363462">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="43" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576381621251" />
+    <state x="305" y="208" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584677363462" />
     <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1576317810680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

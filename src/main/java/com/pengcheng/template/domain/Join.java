@@ -5,6 +5,8 @@ public class Join {
     private Long id;
     private String name;
 
+    private String ceshi;
+
     public Long getId() {
         return id;
     }
